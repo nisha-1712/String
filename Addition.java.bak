@@ -1,0 +1,12 @@
+class Addition{
+}	//Addition
+	public stitic void main(string[] args){
+	//java variables 
+	//data_types variable_name = value;
+	
+	int num1 = 87;
+	System.out.println(87);
+	
+	}
+}
+	
